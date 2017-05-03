@@ -1,2 +1,3 @@
 # htmlcodes.jamesrock.me
-html codes
+
+filterable directory of html codes and symbols
